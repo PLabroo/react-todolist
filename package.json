@@ -1,6 +1,6 @@
 {
   "name": "todo-list",
-  "homepage": "https://PLabroo.github.io/todo-list",
+  "homepage": "https://PLabroo.github.io/react-todolist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
