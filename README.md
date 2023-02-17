@@ -1,3 +1,12 @@
+# Todo Application created with public TODO API
+Functionality includes Adding,Deleting,Updating Todo
+
+Screenshots of my application:
+
+![Screenshot (24)](https://user-images.githubusercontent.com/50594243/219643253-2a51e8e4-3b7e-43b8-846d-533be13084f9.png)
+
+![Screenshot (25)](https://user-images.githubusercontent.com/50594243/219643286-07ef3e8f-646d-48c3-8c9c-173f12249de4.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
